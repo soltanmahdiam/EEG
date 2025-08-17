@@ -1,0 +1,2 @@
+# EEG
+schizophrenia diagnosis
